@@ -1,6 +1,6 @@
-## Bank Customer Churn Analysis
+# Bank Customer Churn Analysis
 
-## Project Overview
+# Project Overview
 Customer churn is a crucial business challenge, especially in the banking sector, where retaining customers is key to long-term profitability. This project aims to analyze churn patterns, identify key influencing factors, and derive actionable insights to help reduce customer attrition.
 
 ### Objective
