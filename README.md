@@ -13,7 +13,7 @@ The primary goal of this analysis is to:
 - **Power BI** - Data Visualization & Dashboarding  
 - **Excel / CSV** - Dataset Source  
 
-## **Dahboard**
+### **Dashboard**
 
 ![Dashboard_Image](https://github.com/naheeda78/Bank-Customer-Churn-Analysis-Dashboard/blob/main/Dashboard_Image.png)
 
