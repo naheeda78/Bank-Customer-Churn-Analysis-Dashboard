@@ -46,14 +46,14 @@ The primary goal of this analysis is to:
 
 # Business Impact & Recommendations
 
-## Target High-Risk Age Groups – Provide personalized retention strategies for the 51-60 age group, such as loyalty programs or exclusive offers.
+### Target High-Risk Age Groups – Provide personalized retention strategies for the 51-60 age group, such as loyalty programs or exclusive offers.
 
-## Improve Credit Score-Based Retention – Offer credit counseling and better loan terms for low-credit-score customers to prevent churn.
+### Improve Credit Score-Based Retention – Offer credit counseling and better loan terms for low-credit-score customers to prevent churn.
 
-## Adjust Account Balance Policies – Customers with extremely low or high balances are at high risk of churn; targeted engagement or better interest rates may help retain them.
+### Adjust Account Balance Policies – Customers with extremely low or high balances are at high risk of churn; targeted engagement or better interest rates may help retain them.
 
-## Re-evaluate Product Offerings – Product 3 has a high churn rate; analyzing its pain points and improving benefits could improve retention.
+### Re-evaluate Product Offerings – Product 3 has a high churn rate; analyzing its pain points and improving benefits could improve retention.
 
-## Country-Specific Strategies – France has the largest customer base; banks should focus on retention strategies tailored to this region.
+### Country-Specific Strategies – France has the largest customer base; banks should focus on retention strategies tailored to this region.
 
-## Leverage Active Customers – Incentivize inactive customers to become more engaged with personalized offers or relationship-based banking services.
+### Leverage Active Customers – Incentivize inactive customers to become more engaged with personalized offers or relationship-based banking services.
