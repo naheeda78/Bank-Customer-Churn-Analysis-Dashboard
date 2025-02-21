@@ -9,6 +9,11 @@ The primary goal of this analysis is to:
 - Understand customer behavior based on demographics, financial status, and engagement.
 - provide insights to help banks retain high-value customers.
 
+### 🛠 Tools & Technologies Used  
+- **Power BI** - Data Visualization & Dashboarding  
+- **Excel / CSV** - Dataset Source  
+
+
 ### Key Findings
 # Overall Churn Rate: 20.4% (2,037 customers lost out of 10,000)
 ## Churn by Age Group:
