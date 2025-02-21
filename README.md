@@ -61,4 +61,5 @@ The primary goal of this analysis is to:
 ### Country-Specific Strategies – 
 - France has the largest customer base; banks should focus on retention strategies tailored to this region.
 
-### Leverage Active Customers – Incentivize inactive customers to become more engaged with personalized offers or relationship-based banking services.
+### Leverage Active Customers –
+- Incentivize inactive customers to become more engaged with personalized offers or relationship-based banking services.
