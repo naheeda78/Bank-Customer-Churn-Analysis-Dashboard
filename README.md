@@ -18,7 +18,7 @@ The primary goal of this analysis is to:
   
 # Churn by Credit Score:
 
- -Customers with low credit scores (<400) have a significantly high churn rate.
+- Customers with low credit scores (<400) have a significantly high churn rate.
 - The 601-700 credit score group has the largest customer base but a lower churn rate.
   
 # Churn by Account Balance:
